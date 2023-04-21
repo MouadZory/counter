@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0p
+}
+body{
+    background-color: rgb(41, 166, 166);
+}
+
+.A{
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    width: 80px;
+    font-size: x-large;
+}
+
+#M{
+    margin-left: 130px;
+    margin-top: 60px;
+}
+
+
+#F1{
+    width: 80px;
+    height: 50px;
+    font-size: x-large;
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#DIV{
+    margin-left: 37%;
+    margin-top: 250px;
+}
+
+#E2{
+    padding-left: 55px;
+    padding-right: 10px;
+    background-color: white;
+    margin: 0px 20px 0px 20px;
+    
+}
+
+#E3{
+    background-color: red;
+}
+
+#E1{
+    background-color: lime;
+}
